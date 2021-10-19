@@ -1,7 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/staeiou/responsibly/HEAD)
-
 Responsibly
 ===========
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/staeiou/responsibly/HEAD
 
 .. image:: https://img.shields.io/badge/docs-passing-brightgreen.svg
     :target: https://docs.responsibly.ai
